@@ -12,8 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void sayHello(){
-        Log.e("TEMP","HAI");
-        Log.e("TEMP","HAI");
-    }
+
 }
