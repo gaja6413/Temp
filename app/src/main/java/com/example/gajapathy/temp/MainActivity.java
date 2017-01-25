@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void sayHello(){
         Log.e("TEMP","HAI");
+        Log.e("TEMP","HAI");
     }
 }
